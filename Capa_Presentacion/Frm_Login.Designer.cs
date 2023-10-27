@@ -57,7 +57,7 @@
             this.txtUsuario.Multiline = true;
             this.txtUsuario.Name = "txtUsuario";
             this.txtUsuario.Size = new System.Drawing.Size(229, 20);
-            this.txtUsuario.TabIndex = 10;
+            this.txtUsuario.TabIndex = 2;
             this.txtUsuario.Text = "Ingrese su nombre de usuario";
             this.txtUsuario.Click += new System.EventHandler(this.txt_Click);
             this.txtUsuario.Leave += new System.EventHandler(this.txt_leave);
@@ -72,7 +72,7 @@
             this.txtClave.Multiline = true;
             this.txtClave.Name = "txtClave";
             this.txtClave.Size = new System.Drawing.Size(229, 20);
-            this.txtClave.TabIndex = 9;
+            this.txtClave.TabIndex = 3;
             this.txtClave.Text = "******************";
             this.txtClave.Click += new System.EventHandler(this.txt_Click);
             this.txtClave.Leave += new System.EventHandler(this.txt_leave);
@@ -136,7 +136,7 @@
             this.btnLogin.Location = new System.Drawing.Point(373, 257);
             this.btnLogin.Name = "btnLogin";
             this.btnLogin.Size = new System.Drawing.Size(106, 30);
-            this.btnLogin.TabIndex = 7;
+            this.btnLogin.TabIndex = 4;
             this.btnLogin.Text = "Iniciar Sesion";
             this.btnLogin.UseVisualStyleBackColor = false;
             this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
@@ -147,7 +147,7 @@
             // 
             this.txtmensajenologea.AutoSize = true;
             this.txtmensajenologea.ForeColor = System.Drawing.Color.Red;
-            this.txtmensajenologea.Location = new System.Drawing.Point(353, 284);
+            this.txtmensajenologea.Location = new System.Drawing.Point(372, 288);
             this.txtmensajenologea.Name = "txtmensajenologea";
             this.txtmensajenologea.Size = new System.Drawing.Size(0, 13);
             this.txtmensajenologea.TabIndex = 8;
