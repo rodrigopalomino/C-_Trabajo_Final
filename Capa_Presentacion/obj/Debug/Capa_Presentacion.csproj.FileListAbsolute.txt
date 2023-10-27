@@ -15,3 +15,20 @@ C:\Users\USER\Documents\GitHub\C-_Trabajo_Final\Capa_Presentacion\obj\Debug\Capa
 C:\Users\USER\Documents\GitHub\C-_Trabajo_Final\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
 C:\Users\USER\Documents\GitHub\C-_Trabajo_Final\Capa_Presentacion\bin\Debug\Capa_Datos.dll
 C:\Users\USER\Documents\GitHub\C-_Trabajo_Final\Capa_Presentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\User\Documents\visual C#\TrabajoFinal\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe.config
+C:\Users\User\Documents\visual C#\TrabajoFinal\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe
+C:\Users\User\Documents\visual C#\TrabajoFinal\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+C:\Users\User\Documents\visual C#\TrabajoFinal\Capa_Presentacion\bin\Debug\Capa_Negocio.dll
+C:\Users\User\Documents\visual C#\TrabajoFinal\Capa_Presentacion\bin\Debug\Capa_Datos.dll
+C:\Users\User\Documents\visual C#\TrabajoFinal\Capa_Presentacion\bin\Debug\Capa_Negocio.pdb
+C:\Users\User\Documents\visual C#\TrabajoFinal\Capa_Presentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\User\Documents\visual C#\TrabajoFinal\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.AssemblyReference.cache
+C:\Users\User\Documents\visual C#\TrabajoFinal\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\visual C#\TrabajoFinal\Capa_Presentacion\obj\Debug\Capa_Presentacion.Frm_Login.resources
+C:\Users\User\Documents\visual C#\TrabajoFinal\Capa_Presentacion\obj\Debug\Capa_Presentacion.Frm_Principal.resources
+C:\Users\User\Documents\visual C#\TrabajoFinal\Capa_Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+C:\Users\User\Documents\visual C#\TrabajoFinal\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\User\Documents\visual C#\TrabajoFinal\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\visual C#\TrabajoFinal\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CopyComplete
+C:\Users\User\Documents\visual C#\TrabajoFinal\Capa_Presentacion\obj\Debug\Capa_Presentacion.exe
+C:\Users\User\Documents\visual C#\TrabajoFinal\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb

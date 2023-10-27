@@ -76,5 +76,52 @@ namespace Capa_Presentacion
                 Application.Exit();
             }
         }
+
+
+
+        private void txt_Click(object sender, EventArgs e)
+        {
+            TextBox ClickTextBox = (TextBox)sender;
+
+            if (ClickTextBox.Text == "Ingrese su nombre de usuario" || ClickTextBox.Text == "******************") {
+                ClickTextBox.Text = "";
+            }
+
+            ClickTextBox.ForeColor = Color.Black;
+
+        
+        }
+
+        private void txt_leave(object sender, EventArgs e)
+        {
+            TextBox textBox = (TextBox)sender;
+
+            if (textBox.Name == "txtUsuario") {
+                if (textBox.Text == "")
+                {
+                    textBox.ForeColor = Color.DarkGray;
+                    textBox.Text = "Ingrese su nombre de usuario";
+                }
+            }
+            if(textBox.Name == "txtClave")
+            {
+                if (textBox.Text == "")
+                {
+                    textBox.ForeColor = Color.DarkGray;
+                    textBox.Text = "******************";
+                }
+            }
+        }
+
+        private void btnLogin_MouseEnter(object sender, EventArgs e)
+        {
+            btnLogin.BackColor = Color.FromArgb(1, 200, 154);
+        }
+
+        private void btnLogin_MouseLeave(object sender, EventArgs e)
+        {
+            btnLogin.BackColor = Color.FromArgb(1, 110, 154);
+
+        }
     }
 }
