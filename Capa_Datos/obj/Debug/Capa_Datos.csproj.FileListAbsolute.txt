@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\GitHub\C-_Trabajo_Final\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\USER\Documents\GitHub\C-_Trabajo_Final\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\USER\Documents\GitHub\C-_Trabajo_Final\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\C-_Trabajo_Final\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\C-_Trabajo_Final\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\USER\Documents\GitHub\C-_Trabajo_Final\Capa_Datos\obj\Debug\Capa_Datos.pdb
