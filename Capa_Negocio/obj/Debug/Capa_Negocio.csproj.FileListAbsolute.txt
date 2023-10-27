@@ -1,0 +1,9 @@
+C:\Users\USER\Documents\GitHub\C-_Trabajo_Final\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\USER\Documents\GitHub\C-_Trabajo_Final\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\USER\Documents\GitHub\C-_Trabajo_Final\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\USER\Documents\GitHub\C-_Trabajo_Final\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\USER\Documents\GitHub\C-_Trabajo_Final\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\C-_Trabajo_Final\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\C-_Trabajo_Final\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\USER\Documents\GitHub\C-_Trabajo_Final\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\USER\Documents\GitHub\C-_Trabajo_Final\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
