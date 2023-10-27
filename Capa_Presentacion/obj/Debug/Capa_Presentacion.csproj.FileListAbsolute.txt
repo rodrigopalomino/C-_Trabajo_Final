@@ -13,3 +13,5 @@ C:\Users\USER\Documents\GitHub\C-_Trabajo_Final\Capa_Presentacion\obj\Debug\Capa
 C:\Users\USER\Documents\GitHub\C-_Trabajo_Final\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CopyComplete
 C:\Users\USER\Documents\GitHub\C-_Trabajo_Final\Capa_Presentacion\obj\Debug\Capa_Presentacion.exe
 C:\Users\USER\Documents\GitHub\C-_Trabajo_Final\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
+C:\Users\USER\Documents\GitHub\C-_Trabajo_Final\Capa_Presentacion\bin\Debug\Capa_Datos.dll
+C:\Users\USER\Documents\GitHub\C-_Trabajo_Final\Capa_Presentacion\bin\Debug\Capa_Datos.pdb

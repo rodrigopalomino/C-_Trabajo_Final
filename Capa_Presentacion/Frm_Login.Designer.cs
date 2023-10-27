@@ -28,32 +28,36 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_Login));
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txtUsuario = new System.Windows.Forms.TextBox();
+            this.txtClave = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnLogin = new System.Windows.Forms.Button();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
+            this.toolTip2 = new System.Windows.Forms.ToolTip(this.components);
+            this.txtmensajenologea = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
-            // textBox1
+            // txtUsuario
             // 
-            this.textBox1.Location = new System.Drawing.Point(356, 141);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(229, 20);
-            this.textBox1.TabIndex = 0;
+            this.txtUsuario.Location = new System.Drawing.Point(356, 141);
+            this.txtUsuario.Name = "txtUsuario";
+            this.txtUsuario.Size = new System.Drawing.Size(229, 20);
+            this.txtUsuario.TabIndex = 0;
             // 
-            // textBox2
+            // txtClave
             // 
-            this.textBox2.Location = new System.Drawing.Point(356, 200);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(229, 20);
-            this.textBox2.TabIndex = 1;
+            this.txtClave.Location = new System.Drawing.Point(356, 200);
+            this.txtClave.Name = "txtClave";
+            this.txtClave.Size = new System.Drawing.Size(229, 20);
+            this.txtClave.TabIndex = 1;
             // 
             // label1
             // 
@@ -91,7 +95,7 @@
             this.pictureBox1.InitialImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.InitialImage")));
             this.pictureBox1.Location = new System.Drawing.Point(-1, -2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(318, 286);
+            this.pictureBox1.Size = new System.Drawing.Size(318, 308);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 4;
             this.pictureBox1.TabStop = false;
@@ -106,29 +110,41 @@
             this.label3.TabIndex = 6;
             this.label3.Text = "Clinica 3 Patas";
             // 
-            // button1
+            // btnLogin
             // 
-            this.button1.Location = new System.Drawing.Point(423, 242);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(106, 30);
-            this.button1.TabIndex = 7;
-            this.button1.Text = "Iniciar Sesion";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnLogin.Location = new System.Drawing.Point(423, 235);
+            this.btnLogin.Name = "btnLogin";
+            this.btnLogin.Size = new System.Drawing.Size(106, 30);
+            this.btnLogin.TabIndex = 7;
+            this.btnLogin.Text = "Iniciar Sesion";
+            this.btnLogin.UseVisualStyleBackColor = true;
+            this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
+            // 
+            // txtmensajenologea
+            // 
+            this.txtmensajenologea.AutoSize = true;
+            this.txtmensajenologea.ForeColor = System.Drawing.Color.Red;
+            this.txtmensajenologea.Location = new System.Drawing.Point(353, 284);
+            this.txtmensajenologea.Name = "txtmensajenologea";
+            this.txtmensajenologea.Size = new System.Drawing.Size(0, 13);
+            this.txtmensajenologea.TabIndex = 8;
             // 
             // Frm_Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(620, 284);
-            this.Controls.Add(this.button1);
+            this.ClientSize = new System.Drawing.Size(620, 306);
+            this.Controls.Add(this.txtmensajenologea);
+            this.Controls.Add(this.btnLogin);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtClave);
+            this.Controls.Add(this.txtUsuario);
             this.Name = "Frm_Login";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
@@ -139,13 +155,16 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txtUsuario;
+        private System.Windows.Forms.TextBox txtClave;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnLogin;
+        private System.Windows.Forms.ToolTip toolTip1;
+        private System.Windows.Forms.ToolTip toolTip2;
+        private System.Windows.Forms.Label txtmensajenologea;
     }
 }
