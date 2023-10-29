@@ -21,7 +21,6 @@ namespace Capa_Presentacion
 
         }
         static int xVeces = 0;
-        Frm_Principal frm = new Frm_Principal();
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
@@ -51,7 +50,8 @@ namespace Capa_Presentacion
                 //---------------
                 Hide();
                 //---------------
-
+                Console.WriteLine(Program.Info_Organización_Session.xApellidos);
+                Frm_Principal frm = new Frm_Principal();
                 frm.ShowDialog();
                 //---------------
             }

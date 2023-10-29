@@ -79,5 +79,32 @@ namespace Capa_Datos
             }
             return null;
         }
+
+        public int CD_InsertarUsuario(string nombre, string telefono, string dni)
+        {
+            SqlCommand cmd = null;
+            try
+            {
+                cmd = new SqlCommand("Sp_InsertarCliente", Conexion.AbrirConexion());
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.AddWithValue("@Nombre", nombre);
+                cmd.Parameters.AddWithValue("@Telefono", telefono);
+                cmd.Parameters.AddWithValue("@Dni", dni);
+
+
+                int filasAfectadas = cmd.ExecuteNonQuery();
+                return filasAfectadas;
+            }
+            catch (SqlException ex)
+            {
+                MessageBox.Show("Error: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return -1; 
+            }
+            finally
+            {
+                Conexion.CerrarConexion();
+            }
+        }
+
     }
 }

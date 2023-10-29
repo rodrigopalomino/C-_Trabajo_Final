@@ -10,3 +10,15 @@ C:\Users\User\Documents\visual C#\TrabajoFinal\Capa_Datos\obj\Debug\Capa_Datos.c
 C:\Users\User\Documents\visual C#\TrabajoFinal\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\visual C#\TrabajoFinal\Capa_Datos\obj\Debug\Capa_Datos.dll
 C:\Users\User\Documents\visual C#\TrabajoFinal\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\Usuario\Documents\apache\C-_Trabajo_Final\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Usuario\Documents\apache\C-_Trabajo_Final\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Usuario\Documents\apache\C-_Trabajo_Final\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\apache\C-_Trabajo_Final\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\apache\C-_Trabajo_Final\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Usuario\Documents\apache\C-_Trabajo_Final\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\User\Downloads\C-_Trabajo_Final\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\User\Downloads\C-_Trabajo_Final\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\User\Downloads\C-_Trabajo_Final\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\C-_Trabajo_Final\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\C-_Trabajo_Final\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\User\Downloads\C-_Trabajo_Final\Capa_Datos\obj\Debug\Capa_Datos.pdb

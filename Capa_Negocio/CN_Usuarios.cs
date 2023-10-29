@@ -21,5 +21,10 @@ namespace Capa_Negocio
         {
             return xObjUsu.CD_LeerDatos_Usuario(Usuario);
         }
+
+        public int CN_InsertarUsuario(string nombre, string telefono, string dni)
+        {
+            return xObjUsu.CD_InsertarUsuario(nombre, telefono, dni); 
+        }
     }
 }

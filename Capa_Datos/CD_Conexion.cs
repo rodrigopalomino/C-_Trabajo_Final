@@ -16,6 +16,7 @@ namespace Capa_Datos
         public CD_Conexion()
         {
             nombre_servidor = Dns.GetHostName();
+            //Conexion = new SqlConnection(@"Server=DESKTOP-0CULHL2;DataBase=BDClinicaPet;Integrated Security=true");
             Conexion = new SqlConnection(@"Server=Cabina-7\MSSQLSERVER01;DataBase=BDClinicaPet;Integrated Security=true");
         }
 

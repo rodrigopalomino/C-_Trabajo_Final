@@ -57,7 +57,7 @@
             this.txtUsuario.Multiline = true;
             this.txtUsuario.Name = "txtUsuario";
             this.txtUsuario.Size = new System.Drawing.Size(229, 20);
-            this.txtUsuario.TabIndex = 2;
+            this.txtUsuario.TabIndex = 9;
             this.txtUsuario.Text = "Ingrese su nombre de usuario";
             this.txtUsuario.Click += new System.EventHandler(this.txt_Click);
             this.txtUsuario.Leave += new System.EventHandler(this.txt_leave);
@@ -72,9 +72,10 @@
             this.txtClave.Multiline = true;
             this.txtClave.Name = "txtClave";
             this.txtClave.Size = new System.Drawing.Size(229, 20);
-            this.txtClave.TabIndex = 3;
+            this.txtClave.TabIndex = 10;
             this.txtClave.Text = "******************";
             this.txtClave.Click += new System.EventHandler(this.txt_Click);
+            this.txtClave.Enter += new System.EventHandler(this.txt_Click);
             this.txtClave.Leave += new System.EventHandler(this.txt_leave);
             // 
             // label1
@@ -84,7 +85,7 @@
             this.label1.Location = new System.Drawing.Point(372, 125);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(54, 16);
-            this.label1.TabIndex = 2;
+            this.label1.TabIndex = 1;
             this.label1.Text = "Usuario";
             // 
             // label2
@@ -136,7 +137,7 @@
             this.btnLogin.Location = new System.Drawing.Point(373, 257);
             this.btnLogin.Name = "btnLogin";
             this.btnLogin.Size = new System.Drawing.Size(106, 30);
-            this.btnLogin.TabIndex = 4;
+            this.btnLogin.TabIndex = 5;
             this.btnLogin.Text = "Iniciar Sesion";
             this.btnLogin.UseVisualStyleBackColor = false;
             this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);

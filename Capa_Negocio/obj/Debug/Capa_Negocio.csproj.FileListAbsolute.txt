@@ -16,3 +16,21 @@ C:\Users\User\Documents\visual C#\TrabajoFinal\Capa_Negocio\obj\Debug\Capa_Negoc
 C:\Users\User\Documents\visual C#\TrabajoFinal\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
 C:\Users\User\Documents\visual C#\TrabajoFinal\Capa_Negocio\obj\Debug\Capa_Negocio.dll
 C:\Users\User\Documents\visual C#\TrabajoFinal\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\Usuario\Documents\apache\C-_Trabajo_Final\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\Usuario\Documents\apache\C-_Trabajo_Final\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\Usuario\Documents\apache\C-_Trabajo_Final\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\Usuario\Documents\apache\C-_Trabajo_Final\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\Usuario\Documents\apache\C-_Trabajo_Final\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\apache\C-_Trabajo_Final\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\apache\C-_Trabajo_Final\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\Usuario\Documents\apache\C-_Trabajo_Final\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\Usuario\Documents\apache\C-_Trabajo_Final\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\User\Downloads\C-_Trabajo_Final\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\User\Downloads\C-_Trabajo_Final\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\User\Downloads\C-_Trabajo_Final\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\User\Downloads\C-_Trabajo_Final\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\User\Downloads\C-_Trabajo_Final\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\C-_Trabajo_Final\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\C-_Trabajo_Final\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\User\Downloads\C-_Trabajo_Final\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\User\Downloads\C-_Trabajo_Final\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
